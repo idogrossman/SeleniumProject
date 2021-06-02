@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-29T21:14:40 IDT" name="Default suite" finished-at="2021-05-29T21:17:33 IDT" duration-ms="173101">
+    <groups>
+    </groups>
+    <test started-at="2021-05-29T21:14:40 IDT" name="Default test" finished-at="2021-05-29T21:17:33 IDT" duration-ms="173101">
+      <class name="aaa.bbb.FinalProject.tests.StoreTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:aaa.bbb.FinalProject.tests.StoreTest@2f8dad04]" started-at="2021-05-29T21:14:40 IDT" name="beforeClass" finished-at="2021-05-29T21:14:40 IDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:aaa.bbb.FinalProject.tests.StoreTest@2f8dad04]" started-at="2021-05-29T21:14:40 IDT" name="beforeMethod" finished-at="2021-05-29T21:14:47 IDT" duration-ms="6378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="Store()[pri:0, instance:aaa.bbb.FinalProject.tests.StoreTest@2f8dad04]" started-at="2021-05-29T21:14:47 IDT" name="Store" finished-at="2021-05-29T21:17:33 IDT" duration-ms="166074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Store -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:aaa.bbb.FinalProject.tests.StoreTest@2f8dad04]" started-at="2021-05-29T21:17:33 IDT" name="afterMethod" finished-at="2021-05-29T21:17:33 IDT" duration-ms="620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:aaa.bbb.FinalProject.tests.StoreTest@2f8dad04]" started-at="2021-05-29T21:17:33 IDT" name="afterClass" finished-at="2021-05-29T21:17:33 IDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- aaa.bbb.FinalProject.tests.StoreTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

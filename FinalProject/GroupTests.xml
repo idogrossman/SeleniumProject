@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNG Group Test">
+	<test name="storeXMLTests" verbose="2" preserve-order="true">
+		<groups>
+			<run>
+				<include name="XML"></include>
+			</run>
+		</groups>
+		<classes>
+            <class name="aaa.bbb.FinalProject.tests.StoreTest"></class>
+        </classes>
+	</test>
+</suite>

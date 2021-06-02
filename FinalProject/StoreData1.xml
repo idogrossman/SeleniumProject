@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+	<test select="Categories;women" item="Blouse">Blouse</test>
+	<test select="Categories;women" item="Faded Short Sleeve T-shirts">Faded Short Sleeve T-shirts</test>
+	<test select="Categories;women" item="Printed Dress">Faded Short Sleeve T-shirts</test>
+</tests>

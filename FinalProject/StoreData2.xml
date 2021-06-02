@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tests>
+	<test>
+		<category>Categories;women</category>
+		<item>Faded</item>
+		<quantity>3</quantity>
+		<size>S</size>
+		<color>Blue</color>
+	</test>
+	<test>
+		<category>Categories;women</category>
+		<item>Blouse</item>
+		<quantity>2</quantity>
+		<size>M</size>
+		<color>Black</color>
+	</test>
+</tests>
